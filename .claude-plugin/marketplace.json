@@ -1,0 +1,28 @@
+{
+  "name": "cardwish",
+  "owner": {
+    "name": "Cardwish",
+    "url": "https://cardwish.cc"
+  },
+  "metadata": {
+    "description": "Graded trading-card market data for Claude: live prices, sold history and price alerts across six marketplaces.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "cardwish",
+      "source": "./plugins/cardwish",
+      "description": "Search graded cards (Pokémon, Magic, Yu-Gi-Oh!, One Piece and more), read live listings, sold-price history and market stats, and set price alerts — straight from Claude.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Cardwish",
+        "url": "https://cardwish.cc"
+      },
+      "homepage": "https://cardwish.cc/connect/",
+      "repository": "https://github.com/tiberiu-sevio/cardwish-claude-plugin",
+      "license": "MIT",
+      "keywords": ["trading cards", "pokemon", "psa", "graded cards", "prices", "market data", "alerts", "mcp"],
+      "category": "data"
+    }
+  ]
+}

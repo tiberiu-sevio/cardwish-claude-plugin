@@ -1,0 +1,13 @@
+{
+  "name": "cardwish",
+  "description": "Graded trading-card market data: search cards, read live listings, sold-price history and market stats, and manage price alerts across eBay, Catawiki, MySlabs, Goldin, Fanatics and Alt.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Cardwish",
+    "url": "https://cardwish.cc"
+  },
+  "homepage": "https://cardwish.cc/connect/",
+  "repository": "https://github.com/tiberiu-sevio/cardwish-claude-plugin",
+  "license": "MIT",
+  "keywords": ["trading cards", "pokemon", "psa", "graded cards", "prices", "market data", "alerts", "mcp"]
+}

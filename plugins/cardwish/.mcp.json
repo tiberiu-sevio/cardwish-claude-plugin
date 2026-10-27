@@ -1,0 +1,6 @@
+{
+  "cardwish": {
+    "type": "http",
+    "url": "https://mcp.cardwish.cc/"
+  }
+}
